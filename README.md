@@ -1,5 +1,5 @@
 # AI-Slack-Summarizer
-A proof-of-concept to leverage GPT-4 and Slack to summarize the key points in a week long discussion and discuss them.
+A proof-of-concept to leverage GPT-4 and Slack to summarize the key points in a week long discussion and discuss them. Longer discussion over [on twitter](https://twitter.com/WorldofAnshul/status/1678836543920959493)
 
 This was written in Elixir, using Elixir Livebooks. To get it working, check out the documentation [at the livebook github](https://github.com/livebook-dev/livebook) or install Elixir on your machine and run it using IEX. 
 
